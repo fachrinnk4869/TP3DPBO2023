@@ -19,16 +19,19 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
 
 ## Screenshot
 **Halaman Utama**
-![image](https://github.com/fachrinnk4869/TP3DPBO2023/assets/92314386/2b31a151-99e6-43b7-bb59-99ff39184643)
+![image](https://github.com/fachrinnk4869/TP3DPBO2023/assets/92314386/19ba4197-b8a5-4931-8c29-65f2e54e0043)
 
 **Halaman Detail**
-![image](https://github.com/fachrinnk4869/TP3DPBO2023/assets/92314386/c8c23668-98e2-468d-a096-5dcdf550a8c2)
+![image](https://github.com/fachrinnk4869/TP3DPBO2023/assets/92314386/0d42b7f9-ff24-4b34-9481-8460568c09ac)
 
 **Halaman Author**
-![image](https://github.com/fachrinnk4869/TP3DPBO2023/assets/92314386/4550374d-9c43-4006-8d71-5a6f1a7186c8)
+![image](https://github.com/fachrinnk4869/TP3DPBO2023/assets/92314386/b4b79fcb-bf00-4a93-ad88-5820ad8eb4d5)
+
+**Ubah Author**
+![image](https://github.com/fachrinnk4869/TP3DPBO2023/assets/92314386/2b1d618a-69e0-4998-868f-3691d2106a19)
 
 **Search Buku**
-![image](https://github.com/fachrinnk4869/TP3DPBO2023/assets/92314386/20acfcc6-0d9e-45b4-b85c-a4d5b10e19b4)
+![image](https://github.com/fachrinnk4869/TP3DPBO2023/assets/92314386/17e36921-5bef-4085-ac85-d5d2c8b204a3)
 
 Video Demonstrasi
 https://github.com/fachrinnk4869/TP3DPBO2023/assets/92314386/1776c823-91bb-44e7-ad4c-28257925144a
